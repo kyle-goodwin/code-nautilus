@@ -13,7 +13,7 @@ import os
 VSCODE = 'code'
 
 # what name do you want to see in the context menu?
-VSCODENAME = 'Code'
+VSCODENAME = 'VS Code'
 
 # always create new window?
 NEWWINDOW = False
